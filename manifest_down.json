@@ -1,0 +1,9 @@
+{  
+    "name": "Cars",  
+    "short_name": "f1",  
+    "theme_color": "#dba4938", 
+    "background_color": "#fdfdfd",  
+    "display": "standalone",  
+    "orientation": "portrait", 
+    "start_url": "index.html"
+}
